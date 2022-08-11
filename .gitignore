@@ -1,0 +1,12 @@
+.DS_Store
+.idea
+.vscode
+/venv
+__pycache__
+patch_52.py
+patch173.py
+lstmPsize15.h5
+cnn_full_vid_BatchNormal.h5
+/trained_model
+/face_model_repo
+
