@@ -1,5 +1,7 @@
 # face-recognition-via-texture
 
+## Installation environments
+`conda env create -f environment.yml`
 ## Demo
 - main/main.py
 

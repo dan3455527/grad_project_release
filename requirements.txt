@@ -1,9 +1,0 @@
-opencv-python
-mediapipe
-numpy
-scikit-image
-keras
-tensorflow
-matplotlib
-scikit-learn
-
